@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Cocos2dxSimpleGame' target in the 'Cocos2dxSimpleGame' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
